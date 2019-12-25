@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Breach Quanta",
+        "dec": "Temporarily stalls Hull Breach. Cooldown of 300s.",
+        "drain": 4,
+        "renks": 4
+    },
+    {
+        "name": "Battle Forge",
+        "dec": "Reduces Forge Cooldown. Cooldown of 480s.",
+        "drain": 4,
+        "renks": 4
+    },
+    {
+        "name": "Battle Stations",
+        "dec": "Boosts turret damage for a temporary duration. Cooldown of 240s.",
+        "drain":6,
+        "renks": 4
+    },
+    {
+        "name": "Death Blossom",
+        "dec": "Removes turret cooldowns for a temporary duration. Cooldown of 300s.",
+        "drain":6,
+        "renks": 4
+    },
+    {
+        "name": "Fire Suppression",
+        "dec": "Extinguishes a number of fire hazards and or electrical hazards. Cooldown of 300s.",
+        "drain":4,
+        "renks": 4
+    },
+    {
+        "name": "Flow Burn",
+        "dec": "Temporarily increases Speed and Boost Speed. Cooldown of 240s.",
+        "drain":6,
+        "renks": 7
+    },
+    {
+        "name": "Form Up",
+        "dec": "Recalls all Crew Members to the Railjack and heal them. Cooldown of 240s.",
+        "drain":6,
+        "renks": 4
+    },
+    {
+        "name": "Intruder Stasis",
+        "dec": "Temporarily freezes all Enemy Boarding Parties. Cooldown of 300s.",
+        "drain":6,
+        "renks": 4
+    },
+    {
+        "name": "Squad Renew",
+        "dec": "Heals all Railjack squad members. Cooldown of 300s.",
+        "drain":6,
+        "renks": 4
+    },
+    {
+        "name": "Void Cloak",
+        "dec": "Cloaks the Railjack at the expense of engine speed. Cooldown of 120s.",
+        "drain":6,
+        "renks": 4
+    }
+]

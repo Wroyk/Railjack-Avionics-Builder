@@ -1,0 +1,519 @@
+[
+    {
+        "name":"Ablative Shell",
+        "descriptione": "Reduces Chem Damage",
+        "houses":{
+            "sigma": null,
+            "lavan": {
+                "valiu": 2.5,
+                "drain": 2,
+                "ranks": 0
+            },
+            "vidar": {
+                "valiu": 4.0,
+                "drain": 4,
+                "ranks": 4
+            },
+            "zetaki": {
+                "valiu": 5.5,
+                "drain": 6,
+                "ranks": 4
+            }
+        }
+    },
+    {
+        "name":"Anode Cell",
+        "descriptione": "Increases Shield Recharge rate",
+        "houses":{
+            "sigma": null,
+            "lavan": {
+                "valiu": 6.0,
+                "drain": 2,
+                "ranks": 4
+            },
+            "vidar": {
+                "valiu": 11.0,
+                "drain": 2,
+                "ranks": 1
+            },
+            "zetaki": {
+                "valiu": 7.0,
+                "drain": 2,
+                "ranks": 7
+            }
+        }
+    },
+    {
+        "name":"Bulkhead",
+        "descriptione": "Increases Railjack Hull",
+        "houses":{
+            "sigma": {
+                "valiu": 18,
+                "drain": 2,
+                "ranks": 1
+            },
+            "lavan": {
+                "valiu": 24.0,
+                "drain": 4,
+                "ranks": 1
+            },
+            "vidar": {
+                "valiu": 32.0,
+                "drain": 6,
+                "ranks": 4
+            },
+            "zetaki": {
+                "valiu": 46.0,
+                "drain": 10,
+                "ranks": 7
+            }
+        }
+    },
+    {
+        "name":"Conic Nozzle",
+        "descriptione": "Increases Speed",
+        "houses":{
+            "sigma": null,
+            "lavan": {
+                "valiu": 2.3,
+                "drain": 6,
+                "ranks": 7
+            },
+            "vidar": {
+                "valiu": 2.0,
+                "drain": 4,
+                "ranks": 1
+            },
+            "zetaki": {
+                "valiu": 2.4,
+                "drain": 10,
+                "ranks": 4
+            }
+        }
+    },
+    {
+        "name":"Forward Artillery",
+        "descriptione": "Increases Forward Artillery Damage",
+        "houses":{
+            "sigma": null,
+            "lavan": {
+                "valiu": 6.5,
+                "drain": 4,
+                "ranks": 1
+            },
+            "vidar": {
+                "valiu": 5.5,
+                "drain": 6,
+                "ranks": 4
+            },
+            "zetaki": {
+                "valiu": 8.5,
+                "drain": 6,
+                "ranks": 7
+            }
+        }
+    },
+    {
+        "name":"Heat Sink",
+        "descriptione": "Reduces Incendiary damage ",
+        "houses":{
+            "sigma": null,
+            "lavan": {
+                "valiu": 5.0,
+                "drain": 2,
+                "ranks": 0
+            },
+            "vidar": {
+                "valiu": 7.0,
+                "drain": 4,
+                "ranks": 4
+            },
+            "zetaki": {
+                "valiu": 8.0,
+                "drain": 6,
+                "ranks": 1
+            }
+        }
+    },
+    {
+        "name":"Hull Weave",
+        "descriptione":"Increases Railjack armor",
+        "houses":{
+            "sigma": {
+                "valiu": 7.0,
+                "drain": 2,
+                "ranks": 1
+            },
+            "lavan": {
+                "valiu": 14.0,
+                "drain": 4,
+                "ranks": 1
+            },
+            "vidar": {
+                "valiu": 27.0,
+                "drain": 4,
+                "ranks": 4
+            },
+            "zetaki": {
+                "valiu": 23.0,
+                "drain": 6,
+                "ranks": 7
+            }
+        }
+    },
+    {
+        "name":"Hyperflux",
+        "descriptione":"Increases Flux Energy",
+        "houses":{
+            "sigma": null,
+            "lavan": {
+                "valiu": 9.0,
+                "drain": 6,
+                "ranks": 1
+            },
+            "vidar": {
+                "valiu": 7.0,
+                "drain": 4,
+                "ranks": 4
+            },
+            "zetaki": {
+                "valiu": 9.0,
+                "drain": 10,
+                "ranks": 7
+            }
+        }
+    },
+    {
+        "name":"Hyperstrike",
+        "descriptione":"Increases Turret damage",
+        "houses":{
+            "sigma": {
+                "valiu": 8,
+                "drain": 4,
+                "ranks": 1
+            },
+            "lavan": {
+                "valiu": 9.5,
+                "drain": 4,
+                "ranks": 4
+            },
+            "vidar": {
+                "valiu": 9.2,
+                "drain": 6,
+                "ranks": 7
+            },
+            "zetaki": {
+                "valiu": 11.0,
+                "drain": 6,
+                "ranks": 7
+            }
+        }
+    },
+    {
+        "name":"Ion Burn",
+        "descriptione":"Increases Boost Speed",
+        "houses":{
+            "sigma": null,
+            "lavan": {
+                "valiu": 3.6,
+                "drain": 6,
+                "ranks": 7
+            },
+            "vidar": {
+                "valiu": 4.5,
+                "drain": 4,
+                "ranks": 1
+            },
+            "zetaki": {
+                "valiu": 4.2,
+                "drain": 4,
+                "ranks": 4
+            }
+        }
+    },
+    {
+        "name":"Last Stand",
+        "descriptione":"Increases All Turret Damage when Hull is below 20%",
+        "houses":{
+            "sigma": null,
+            "lavan": {
+                "valiu": 19.0 ,
+                "drain": 2,
+                "ranks": 0
+            },
+            "vidar": {
+                "valiu": 23.0,
+                "drain": 4,
+                "ranks": 0
+            },
+            "zetaki": {
+                "valiu": 19.0,
+                "drain": 6,
+                "ranks": 4
+            }
+        }
+    },
+    {
+        "name":"Maxima",
+        "descriptione":"Increases Max Shields",
+        "houses":{
+            "sigma": null,
+            "lavan": {
+                "valiu": 6.0,
+                "drain": 4,
+                "ranks": 4
+            },
+            "vidar": {
+                "valiu": 7.0,
+                "drain": 4,
+                "ranks": 4
+            },
+            "zetaki": {
+                "valiu": 6.5,
+                "drain": 6,
+                "ranks": 7
+            }
+        }
+    },
+    {
+        "name":"Phasic Weave",
+        "descriptione":"Reduces Ionic Damage",
+        "houses":{
+            "sigma": null,
+            "lavan": {
+                "valiu": 5.5,
+                "drain": 2,
+                "ranks": 1
+            },
+            "vidar": {
+                "valiu": 4.5,
+                "drain": 4,
+                "ranks": 7
+            },
+            "zetaki": {
+                "valiu": 5.0,
+                "drain": 6,
+                "ranks": 4
+            }
+        }
+    },
+    {
+        "name":"Polar Coil",
+        "descriptione":"Increases Turret Heat Capacity",
+        "houses":{
+            "sigma": null,
+            "lavan": {
+                "valiu": 7.0,
+                "drain": 2,
+                "ranks": 1
+            },
+            "vidar": {
+                "valiu": 8.5,
+                "drain": 2,
+                "ranks": 1
+            },
+            "zetaki": {
+                "valiu": 6.0,
+                "drain": 4,
+                "ranks": 7
+            }
+        }
+    },
+    {
+        "name":"Predator",
+        "descriptione":"Increases all Turret Critical Chance",
+        "houses":{
+            "sigma": null,
+            "lavan": {
+                "valiu": 10.0,
+                "drain": 2,
+                "ranks": 0
+            },
+            "vidar": {
+                "valiu": 9.5,
+                "drain": 2,
+                "ranks": 1
+            },
+            "zetaki": {
+                "valiu": 9.0,
+                "drain": 4,
+                "ranks": 4
+            }
+        }
+    },
+    {
+        "name":"Ripload",
+        "descriptione":"Decreases Ordnance Reload time",
+        "houses":{
+            "sigma": null,
+            "lavan": {
+                "valiu": 4.0,
+                "drain": 4,
+                "ranks": 4
+            },
+            "vidar": {
+                "valiu": 5.0,
+                "drain": 6,
+                "ranks": 1
+            },
+            "zetaki": {
+                "valiu": 3.7,
+                "drain": 10,
+                "ranks": 7
+            }
+        }
+    },
+    {
+        "name":"Section Density",
+        "descriptione":"Increase all Turret Critical Damage",
+        "houses":{
+            "sigma": null,
+            "lavan": {
+                "valiu": 8.5,
+                "drain": 2,
+                "ranks": 1
+            },
+            "vidar": {
+                "valiu": 8.0,
+                "drain": 4,
+                "ranks": 4
+            },
+            "zetaki": {
+                "valiu": 7.0,
+                "drain": 6,
+                "ranks": 7
+            }
+        }
+    },
+    {
+        "name":"Thermatic",
+        "descriptione":"Reduces Frost damage",
+        "houses":{
+            "sigma": null,
+            "lavan": {
+                "valiu": 6.5,
+                "drain": 2,
+                "ranks": 0
+            },
+            "vidar": {
+                "valiu": 5.5,
+                "drain": 4,
+                "ranks": 4
+            },
+            "zetaki": {
+                "valiu": 4.0,
+                "drain": 6,
+                "ranks": 4
+            }
+        }
+    },
+    {
+        "name":"Warhead",
+        "descriptione":"Increases Ordnance damage",
+        "houses":{
+            "sigma": null,
+            "lavan": {
+                "valiu": 7.0,
+                "drain": 4,
+                "ranks": 4
+            },
+            "vidar": {
+                "valiu": 5.5,
+                "drain": 6,
+                "ranks": 7
+            },
+            "zetaki": {
+                "valiu": 6.5,
+                "drain": 10,
+                "ranks": 7
+            }
+        }
+    },
+    {
+        "name":"Winged Cyclone",
+        "descriptione":"Increases speed of nearby Archwings",
+        "houses":{
+            "sigma": null,
+            "lavan": {
+                "valiu": 3.0,
+                "drain": 4,
+                "ranks": 1
+            },
+            "vidar": {
+                "valiu": 3.0,
+                "drain": 2,
+                "ranks": 4
+            },
+            "zetaki": {
+                "valiu": 2.0,
+                "drain": 6,
+                "ranks": 7
+            }
+        }
+    },
+    {
+        "name":"Winged Force",
+        "descriptione":"descriptione",
+        "houses":{
+            "sigma": null,
+            "lavan": {
+                "valiu": 5.0,
+                "drain": 4,
+                "ranks": 0
+            },
+            "vidar": {
+                "valiu": 4.0,
+                "drain": 4,
+                "ranks": 1
+            },
+            "zetaki": {
+                "valiu": 3.0,
+                "drain": 4,
+                "ranks": 4
+            }
+        }
+    },{
+        "name":"Winged Steel",
+        "descriptione":"Increases armor of nearby Archwings",
+        "houses":{
+            "sigma": null,
+            "lavan": {
+                "valiu": 6.0,
+                "drain": 2,
+                "ranks": 0
+            },
+            "vidar": {
+                "valiu": 5.0,
+                "drain": 4,
+                "ranks": 1
+            },
+            "zetaki": {
+                "valiu": 45.0,
+                "drain": 6,
+                "ranks": 4
+            }
+        }
+    },
+    {
+        "name":"Winged Storm",
+        "descriptione":"Increases damage of nearby Archwings",
+        "houses":{
+            "sigma": null,
+            "lavan": {
+                "valiu": 3.0,
+                "drain": 4,
+                "ranks": 1
+            },
+            "vidar": {
+                "valiu": 2.0,
+                "drain": 4,
+                "ranks": 4
+            },
+            "zetaki": {
+                "valiu": 1.0,
+                "drain": 4,
+                "ranks": 7
+            }
+        }
+    }
+]

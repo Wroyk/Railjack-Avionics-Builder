@@ -1,0 +1,62 @@
+{
+    "first":[
+        {
+            "name": "Munitions Vortex",
+            "desc": "Deploys a bubble that absorbs fire for X seconds. Detonates for all accumulated damage over X meters",
+            "drain": 2,
+            "ranks": 4
+        },
+        {
+            "name": "Blackout Pulse",
+            "desc": "Deploys an electro-magnetic pulse that deals damage to enemies and disables them temporarily. Manual detonation increases the blast radius",
+            "drain": 4,
+            "ranks": 4
+        },
+        {
+            "name": "Countermeasures",
+            "desc": "Deploys flares that will distract enemy guided projectiles.",
+            "drain": 2,
+            "ranks": 4
+        }
+    ],
+    "second":[
+        {
+            "name": "Tether",
+            "desc": "Emits a field that restricts the movement of enemy targets for a certain time and then detonates, dealing damage to all enemies within an increased range.",
+            "drain": 4,
+            "ranks": 4
+        },
+        {
+            "name": "Particle Ram",
+            "desc": "Creates a cone-shaped plasma ram at the head of the Railjack that deals Radiation b Radiation damage (cone is around 3-4x as wide as the Railjack at the widest point and around 2x as long) damaging things that collide with its hitbox and will last until manually launched, even persisting through mission transitions (but not the Dry Dock.) This ram can be launched off the front of the Railjack as a projectile, dealing damage to anything it contacts until it dissipates. Dissipation has no extra cost. Enemies will only take damage every second while in contact with the ram. ",
+            "drain": 4,
+            "ranks": 4
+        },
+        {
+            "name": "Shatter Burst",
+            "desc": "Launches a rocket that functions similar to Elytron's Thumper in that it creates an area of effect that continuously releases explosions that damage enemies, will detonate on impact with a surface or manually by pressing the ability button again.",
+            "drain": 4,
+            "ranks": 4
+        }
+    ],
+    "third":[
+        {
+            "name": "Seeker Volley",
+            "desc": "Releases a volley of homing missiles at the cost of 100 Flux Energy.",
+            "drain": 6,
+            "ranks": 4
+        },
+        {
+            "name": "Void Hole",
+            "desc": "Creates a large black hole that sucks in enemies and deals continous damage every second to all enemies inside.",
+            "drain": 6,
+            "ranks": 4
+        },
+        {
+            "name": "Fiery Phoenix",
+            "desc": "Leave a trail that deals continuous Heat b Heat damage to enemies touching it. Fiery Phoenix accumulates damage every second while active and will unleash it upon deactivation, damaging all enemies in range. The Railjack will also gain a speed boost and damage reduction while active.",
+            "drain": 6,
+            "ranks": 4
+        }
+    ]
+}
